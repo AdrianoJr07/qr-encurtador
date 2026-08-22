@@ -386,6 +386,6 @@ Durante o desenvolvimento foram trabalhados conceitos relacionados a:
 
 ## 👨‍💻 Autores
 
-Adriano Ferreira, Amábile Silvério, Julia Barbosa, João Baradelli
+Adriano Ferreira, Amábile Silvério, Julia Barbosa e João Baradelli
 
 Projeto desenvolvido para fins acadêmicos, envolvendo desenvolvimento Web, infraestrutura em nuvem e publicação de uma aplicação em ambiente real.

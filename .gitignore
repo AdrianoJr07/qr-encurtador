@@ -1,0 +1,13 @@
+# Arquivos com variáveis/credenciais
+.env
+.env.*
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+
+# Sistema operacional
+.DS_Store
+Thumbs.db

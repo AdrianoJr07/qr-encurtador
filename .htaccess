@@ -1,0 +1,4 @@
+RewriteEngine On
+
+# Link curto: /abc12 -> redirecionar.php?codigo=abc12
+RewriteRule ^([a-zA-Z0-9]{5})/?$ redirecionar.php?codigo=$1 [L,QSA]
